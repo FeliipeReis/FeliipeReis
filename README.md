@@ -23,9 +23,9 @@ Estudo e me mantenho atualizado constantemente na área de tecnologia, pois ador
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=36BCF7FF)](reisfelps89@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=36BCF7FF)](https://www.linkedin.com/in/fe-reis/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=36BCF7FF)](https://www.instagram.com/fe.r3is/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:36BCF7FF)](reisfelps89@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:36BCF7FF)](https://www.linkedin.com/in/fe-reis/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:36BCF7FF)](https://www.instagram.com/fe.r3is/)
 
 
 
