@@ -1,7 +1,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quattrocento&weight=900&size=30&pause=1000&color=55B7E9&random=false&width=435&height=100&lines=Ol%C3%A1%2C+eu+sou+o+Felipe!)](https://git.io/typing-svg)
-  <p align="center">Atualmente sou estudante de Ciências da Computação do IFSulDeMinas (Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais).
-Me interesso por desenvolvimento web front-end, e minhas principais linguagens são Java, JavaScript e Php. 
-Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+  <p align="center">Atualmente, sou estudante no 7º período do Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSulDeMinas).
+Tenho interesse em desenvolvimento web front-end e minhas principais linguagens são Java, JavaScript e PHP.
+Estudo e me mantenho atualizado constantemente na área de tecnologia, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 #
 
