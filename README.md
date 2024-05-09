@@ -1,6 +1,6 @@
-<div align="left">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quattrocento&weight=900&size=30&pause=1000&color=55B7E9&random=false&width=435&height=100&lines=Ol%C3%A1%2C+eu+sou+o+Felipe!)](https://git.io/typing-svg)
-</div>
+
   <p align="center">Atualmente, sou estudante no 7º período do Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSulDeMinas).
 Tenho interesse em desenvolvimento web front-end.
 Estudo e me mantenho atualizado constantemente na área de tecnologia, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
